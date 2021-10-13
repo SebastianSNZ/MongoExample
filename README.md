@@ -1,2 +1,3 @@
 # MongoExample
-Example for t
+Example for the MongoDB conference.
+

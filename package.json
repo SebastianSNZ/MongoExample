@@ -1,0 +1,27 @@
+{
+  "name": "mongoexample",
+  "version": "1.0.0",
+  "description": "Example for the MongoDB conference",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianSNZ/MongoExample.git"
+  },
+  "keywords": [
+    "MongoDB"
+  ],
+  "author": "Sebastian Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianSNZ/MongoExample/issues"
+  },
+  "homepage": "https://github.com/SebastianSNZ/MongoExample#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3"
+  }
+}
