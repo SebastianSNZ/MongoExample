@@ -16,4 +16,4 @@ function get() {
     return db
 }
 
-module.exports = {connect, get};
+module.exports = { connect, get };
